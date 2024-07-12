@@ -17,6 +17,7 @@
 <p align="center">
   <a href="https://deps.rs/repo/github/meilisearch/meilisearch"><img src="https://deps.rs/repo/github/meilisearch/meilisearch/status.svg" alt="Dependency status"></a>
   <a href="https://github.com/meilisearch/meilisearch/blob/main/LICENSE"><img src="https://img.shields.io/badge/license-MIT-informational" alt="License"></a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fjlr295%2Fmeilisearch?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjlr295%2Fmeilisearch.svg?type=shield"/></a>
   <a href="https://ms-bors.herokuapp.com/repositories/52"><img src="https://bors.tech/images/badge_small.svg" alt="Bors enabled"></a>
 </p>
 
@@ -32,6 +33,9 @@
     <img src="assets/demo-dark.gif#gh-dark-mode-only" alt="A dark colored application for finding movies screening near the user">
   </a>
 </p>
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fjlr295%2Fmeilisearch.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fjlr295%2Fmeilisearch?ref=badge_large)
 
 ## 🖥 Examples
 
